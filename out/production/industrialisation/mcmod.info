@@ -1,0 +1,18 @@
+[
+{
+  "modid": "Industrialsation",
+  "name": "Industrialisation",
+  "description": "bonka95 first mod to industrialise machenes and furnaces",
+  "version": "1.0B",
+  "credits": "To bart/iamdutch21 for introduced me to modding!",
+  "logoFile": "/logo.png",
+  "mcversion": "1.7.10",
+  "url": "http://www.merlijnvermeer.nl/project/",
+  "updateUrl": "",
+  "authors": [ "bonka95" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+	 "mod_MinecraftForge"
+]
+}
