@@ -18,7 +18,7 @@ buildscript {
 apply plugin: 'forge'
 
 version = "1.7.10-1.0B"
-group= "com.bonka95.industrialisation" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+group= "com.bonka95.Industrialisation" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "Industrialisation"
 
 minecraft {

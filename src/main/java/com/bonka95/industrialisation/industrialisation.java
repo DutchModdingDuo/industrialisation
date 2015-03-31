@@ -1,5 +1,7 @@
 package com.bonka95.industrialisation;
 
+import com.bonka95.Industrialisation.configuration.ConfigurationHandler;
+import com.bonka95.Industrialisation.init.ModItems;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
@@ -19,6 +21,8 @@ public class Industrialisation
     public void preInit(FMLPreInitializationEvent event)
     {
 
+
+        ModItems.init();
     }
 
     @Mod.EventHandler
