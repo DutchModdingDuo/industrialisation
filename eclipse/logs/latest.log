@@ -1,74 +1,10 @@
-[15:09:58] [main/INFO]: Setting user: Player913
-[15:09:59] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:10:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[15:10:10] [Sound Library Loader/INFO]: Sound engine started
-[15:10:20] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:10:20] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:10:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[15:10:20] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:10:20] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:10:21] [Sound Library Loader/INFO]: Sound engine started
-[15:10:27] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[15:10:27] [Server thread/INFO]: Generating keypair
-[15:10:27] [Server thread/INFO]: Converting map!
-[15:10:27] [Server thread/INFO]: Scanning folders...
-[15:10:27] [Server thread/INFO]: Total conversion count is 0
-[15:10:27] [Server thread/INFO]: Preparing start region for level 0
-[15:10:28] [Server thread/INFO]: Preparing spawn area: 6%
-[15:10:29] [Server thread/INFO]: Preparing spawn area: 18%
-[15:10:30] [Server thread/INFO]: Preparing spawn area: 38%
-[15:10:31] [Server thread/INFO]: Preparing spawn area: 63%
-[15:10:32] [Server thread/INFO]: Preparing spawn area: 84%
-[15:10:33] [Server thread/INFO]: Changing view distance to 12, from 10
-[15:10:34] [Server thread/INFO]: Player913[local:E:cd7740c8] logged in with entity id 16 at (64.5, 65.0, -40.5)
-[15:10:34] [Server thread/INFO]: Player913 joined the game
-[15:10:39] [Client thread/INFO]: Warning: Clientside chunk ticking took 423 ms
-[15:10:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 265 ms
-[15:10:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 188 ms
-[15:10:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 182 ms
-[15:10:49] [Server thread/INFO]: Saving and pausing game...
-[15:10:49] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[15:10:49] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[15:10:49] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[15:10:56] [Server thread/INFO]: Player913 has just earned the achievement [Taking Inventory]
-[15:10:56] [Client thread/INFO]: [CHAT] Player913 has just earned the achievement [Taking Inventory]
-[15:10:57] [Client thread/INFO]: Warning: Clientside chunk ticking took 134 ms
-[15:10:57] [Client thread/INFO]: Warning: Clientside chunk ticking took 131 ms
-[15:10:58] [Client thread/INFO]: Warning: Clientside chunk ticking took 127 ms
-[15:11:04] [Server thread/INFO]: Saving and pausing game...
-[15:11:04] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[15:11:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[15:11:04] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[15:11:10] [Server thread/INFO]: Saving and pausing game...
-[15:11:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[15:11:10] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[15:11:10] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[15:11:11] [Server thread/INFO]: Saving and pausing game...
-[15:11:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[15:11:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[15:11:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[15:11:18] [Client thread/INFO]: Selecting effect minecraft:shaders/post/notch.json
-[15:11:20] [Client thread/INFO]: Selecting effect minecraft:shaders/post/fxaa.json
-[15:11:21] [Client thread/INFO]: Selecting effect minecraft:shaders/post/art.json
-[15:11:21] [Client thread/WARN]: Could not find uniform named LumaRamp in the specified shader program.
-[15:11:22] [Client thread/INFO]: Selecting effect minecraft:shaders/post/bumpy.json
-[15:11:22] [Client thread/WARN]: Could not find uniform named OutSize in the specified shader program.
-[15:11:23] [Client thread/INFO]: Selecting effect minecraft:shaders/post/blobs2.json
-[15:11:24] [Client thread/INFO]: Selecting effect minecraft:shaders/post/pencil.json
-[15:11:25] [Client thread/INFO]: Selecting effect minecraft:shaders/post/color_convolve.json
-[15:11:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[15:11:49] [Server thread/INFO]: Changing view distance to 9, from 12
-[15:11:49] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:11:49] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:11:50] [Sound Library Loader/INFO]: Sound engine started
-[15:12:14] [Server thread/INFO]: Saving and pausing game...
-[15:12:14] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[15:12:14] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[15:12:14] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[15:12:15] [Server thread/INFO]: Stopping server
-[15:12:15] [Server thread/INFO]: Saving players
-[15:12:15] [Server thread/INFO]: Saving worlds
-[15:12:15] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[15:12:15] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[15:12:15] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[15:12:20] [Client thread/INFO]: Stopping!
+[15:41:42] [main/INFO]: Setting user: Player74
+[15:41:45] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:41:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Industrialisation
+[15:41:56] [Sound Library Loader/INFO]: Sound engine started
+[15:41:58] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:41:58] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:41:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Industrialisation
+[15:41:58] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:41:59] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:41:59] [Sound Library Loader/INFO]: Sound engine started
